@@ -86046,5 +86046,14 @@ var spellReferenceLUT = {
     "Bigby's Forceful Hand": "Bigby's Interposing Hand",
     "Inflict Serious Wounds, Mass": "Inflict Light Wounds, Mass",
     "Cure Critical Wounds, Mass": "Cure Light Wounds, Mass",
-    "Deflect": "Deflect"
+    "Deflect": "Deflect, Lesser",
+    "Planar Ally, Greater": "Planar Ally, Lesser",
+    "Planar Ally": "Planar Ally, Lesser",
+    "Energy Surge, Greater": "Energy Surge, Lesser",
+    "Energy Surge": "Energy Surge, Lesser",
+    "Planar Binding, Greater": "Planar Binding, Lesser",
+    "Planar Binding": "Planar Binding, Lesser",
+    "Spirit Binding, Lesser": "Planar Binding, Lesser",
+    "Spirit Binding": "Planar Binding, Lesser",
+    "Spirit Binding, Greater": "Planar Binding, Lesser",
 }
